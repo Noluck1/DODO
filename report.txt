@@ -1,0 +1,7 @@
+Table occupancy report
+====================
+Total events: 110
+Empty events: 38
+Occupied events: 38
+Approach events: 34
+Average delay (empty -> next approach): 51.96 sec
